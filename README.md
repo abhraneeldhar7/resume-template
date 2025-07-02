@@ -1,8 +1,8 @@
 # Software Engineer Resume Template
 
 ## Credits
-[https://www.youtube.com/watch?v=QTcH1klQFaM&t=530s](youtube video where he explains ways to land an internship)
-[https://www.youtube.com/@SWErikCodes](@SWErikCodes)
+[youtube video where he explains ways to land an internship](https://www.youtube.com/watch?v=QTcH1klQFaM&t=530s)
+[@SWErikCodes](https://www.youtube.com/@SWErikCodes)
 Big thanks for this banger video
 
 This repository contains a LaTeX template for a professional software engineer resume that I have personally used to secure numerous interviews. This template is designed to highlight technical skills, project experience, and achievements in a clean and organized format.
