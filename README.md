@@ -1,7 +1,7 @@
 # Software Engineer Resume Template
 
 ## Credits
-[youtube video where he explains ways to land an internship](https://www.youtube.com/watch?v=QTcH1klQFaM&t=530s)
+[youtube video where he explains ways to land an internship](https://www.youtube.com/watch?v=QTcH1klQFaM)
 
 
 
